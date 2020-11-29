@@ -1,0 +1,23 @@
+.title {
+  padding: 0 10px 10px;
+  color: black;
+
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.task {
+  padding: 30px;
+}
+
+.taskOne {
+  background-color: rgb(214, 211, 211);
+}
+
+.taskTwo {
+  background-color: rgb(235, 168, 168);
+}
+
+.taskThree {
+  background-color: rgb(209, 247, 174);
+}
